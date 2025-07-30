@@ -24,21 +24,26 @@ RETURN
 DIVIDE(CurrentYear - PreviousYear, PreviousYear)
 
 Data Cleaning 
+
 Dataset was mostly clean. 
 Date formats were corrected using Power Query.
 
 Key Insights 
-
 California, New York, and Texas generated the highest sales. 
+
 Peak sales occurred in November 2018, while the lowest were in February 2015. 
 Technology was the top-performing product category. 
+
 Average Order Value (AOV) ≈ $560. 
 Average shipping time ≈ 4 days. 
+
 First-Class shipping reduces delivery time to ≈ 2 days. 
+
 Standard Class shipping is the most used, with ≈ 5 days average delivery time and highest forecast variance. 
 YoY growth ≈ 47%, indicating strong annual sales expansion.
 
 Tools Used 
+
 Power BI 
 DAX 
 Power Query

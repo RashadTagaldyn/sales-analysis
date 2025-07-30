@@ -42,6 +42,13 @@ Tools Used
 Power BI 
 DAX 
 Power Query
+
+
 Dashboard Preview
+
+![WhatsApp Image 2025-07-29 at 01 17 00_239f46ad](https://github.com/user-attachments/assets/77d95733-66e8-4e59-bf52-b0f145030830)
+
+
+
 ![WhatsApp Image 2025-07-29 at 01 16 15_db096475](https://github.com/user-attachments/assets/3a7a2784-172e-459e-8024-cf00f0228972)
 
